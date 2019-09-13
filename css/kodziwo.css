@@ -1,0 +1,9 @@
+.soacialmedia::after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.soacialmedia-btn {
+    float: left; margin-right: 10px;
+}
